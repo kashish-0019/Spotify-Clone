@@ -19,7 +19,6 @@ This is a static, non-functional webpage designed to showcase my front-end devel
 
 ## Preview 🖼️
 
-Include a screenshot of your webpage here:
 ![Spotify Clone Preview](./images/Screenshot1.png)
 ![Spotify Clone Preview](./images/Screenshot2.png)
 
@@ -27,4 +26,4 @@ Include a screenshot of your webpage here:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/kashish-0019/spotify-clone.git
